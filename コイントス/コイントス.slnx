@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="コイントス.vcxproj" />
+  <Project Path="コイントス.vcxproj" Id="6e00f2da-404e-47c6-88b7-fe3427cd859a" />
 </Solution>
